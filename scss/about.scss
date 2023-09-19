@@ -1,0 +1,890 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,900&family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&family=Roboto:wght@400;500;700&display=swap");
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  a {
+    text-decoration: none;
+  }
+  .about__page__codes__container {
+    margin: 0 auto;
+    width: 1440px;
+    height: 2891px;
+    header {
+      nav {
+        .navigation__container {
+          height: 113px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .home {
+            transition: all 0.7s;
+            margin-left: 760px;
+            font-family: Barlow;
+            color: #83888f;
+            font-size: 12px;
+            font-weight: 700;
+            line-height: 15px;
+            letter-spacing: 0.923px;
+          }
+          .home:hover {
+            color: #333d4b;
+          }
+          .about {
+            transition: all 0.7s;
+            margin-left: 33px;
+            font-family: Barlow;
+            color: #83888f;
+            font-size: 12px;
+            font-weight: 700;
+            line-height: 15px;
+            letter-spacing: 0.923px;
+          }
+          .about:hover {
+            color: #333d4b;
+          }
+          .subrice {
+            transition: all 0.7s;
+            margin-left: 33px;
+            font-family: Barlow;
+            color: #83888f;
+            font-size: 12px;
+            font-weight: 700;
+            line-height: 15px;
+            letter-spacing: 0.923px;
+          }
+          .subrice:hover {
+            color: #333d4b;
+          }
+        }
+      }
+    }
+    section {
+      //   margin-bottom: 168px;
+      display: flex;
+      justify-content: center;
+      .coffe__container {
+        display: flex;
+        flex-direction: column;
+        //   align-items: center;
+        justify-content: center;
+        background-image: url(../aboutpage_img/about_page_img.png);
+        width: 1280px;
+        height: 450px;
+        .about__us {
+          max-width: 493px;
+          margin-left: 86px;
+          color: #fefcf7;
+          font-family: Fraunces;
+          font-size: 40px;
+          font-weight: 900;
+          line-height: 48px;
+        }
+        .coffeeroasters {
+          max-width: 445px;
+          margin-top: 32px;
+          margin-left: 86px;
+          color: #fefcf7;
+          font-family: Barlow;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 26px;
+        }
+      }
+    }
+    .our__commitment__container {
+      display: flex;
+      //   margin-top: 168px;
+      margin: 0 auto;
+      width: 1110px;
+      //   height: 520px;
+      .our__commitment__writing {
+        margin-left: 125px;
+        margin-top: 258px;
+        .our__commitment {
+          max-width: 350px;
+          color: #333d4b;
+          font-family: Fraunces;
+          font-size: 40px;
+          font-weight: 900;
+          line-height: 48px;
+        }
+        .were__built {
+          margin-top: 32px;
+          max-width: 540px;
+          color: #333d4b;
+          font-family: Barlow;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 26px;
+        }
+      }
+    }
+    .about__page__center__container {
+      margin-top: 250px;
+      justify-content: center;
+      display: flex;
+      .about__page__center__inside {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 1280px;
+        height: 474px;
+        border-radius: 10px;
+        background: #2c343e;
+        .uncompromising {
+          color: #fefcf7;
+          font-family: Fraunces;
+          font-size: 40px;
+          font-weight: 900;
+          line-height: 48px;
+          margin-bottom: 32px;
+        }
+        .although {
+          max-width: 540px;
+          color: #fefcf7;
+          font-family: Barlow;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 26px;
+        }
+        .img__five {
+          transform: translateY(-80px);
+        }
+      }
+    }
+    center {
+      .our__headquarters__container {
+        margin-top: 168px;
+        display: flex;
+        width: 1045px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        .our__headquarters {
+          max-width: 255px;
+          color: #83888f;
+          font-family: Fraunces;
+          font-size: 24px;
+          font-weight: 900;
+          line-height: 32px;
+        }
+        .about__map {
+          margin-top: 72px;
+          .map__img__one {
+            margin-right: 338px;
+          }
+          .map__img__two {
+            margin-right: 330px;
+          }
+        }
+        .center__inside {
+          margin-top: 24px;
+          display: flex;
+          .united {
+            margin-right: 118px;
+            max-width: 272px;
+            color: #333d4b;
+            font-family: Fraunces;
+            font-size: 32px;
+            font-weight: 900;
+            line-height: 36px;
+          }
+          .canada {
+            display: flex;
+            justify-content: start;
+            margin-right: 125px;
+            color: #333d4b;
+            font-family: Fraunces;
+            font-size: 32px;
+            width: 255px;
+            font-weight: 900;
+            line-height: 36px;
+          }
+          .australia {
+            display: flex;
+            justify-content: start;
+            width: 255px;
+            color: #333d4b;
+            font-family: Fraunces;
+            font-size: 32px;
+            font-weight: 900;
+            line-height: 36px;
+          }
+        }
+        .united__canada__australia__information {
+          .united__information {
+            margin-right: 95px;
+            width: 285px;
+            margin-top: 24px;
+            display: flex;
+            align-items: start;
+            flex-direction: column;
+            color: #333d4b;
+            font-family: Barlow;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+          }
+          .canada__information {
+            margin-right: 100px;
+            margin-top: 24px;
+            width: 285px;
+            display: flex;
+            align-items: start;
+            flex-direction: column;
+            color: #333d4b;
+            font-family: Barlow;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+          }
+          .australia__information {
+            margin-top: 24px;
+            width: 285px;
+            display: flex;
+            align-items: start;
+            flex-direction: column;
+            width: 285px;
+            color: #333d4b;
+            font-family: Barlow;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+          }
+        }
+      }
+    }
+
+    footer {
+      //   width: 1280px;
+      display: flex;
+      justify-content: center;
+      margin-top: 200px;
+      .footer__container {
+        display: flex;
+        align-items: center;
+        // justify-content: space-between;
+        width: 1280px;
+        background: #2c343e;
+        height: 120px;
+        .home__three {
+          margin-left: 110px;
+          margin-right: 103px;
+        }
+        .pages {
+          .home__two {
+            margin-right: 33px;
+            transition: all 0.7s;
+            // margin-left: 103px;
+            color: #83888f;
+            font-family: Barlow;
+            font-size: 12px;
+            font-weight: 700;
+            line-height: 15px;
+            letter-spacing: 0.923px;
+          }
+          .home__two:hover {
+            color: #fff;
+          }
+          .about__two {
+            margin-right: 33px;
+            transition: all 0.7s;
+            // margin-left: 33px;
+            color: #83888f;
+            font-family: Barlow;
+            font-size: 12px;
+            font-weight: 700;
+            line-height: 15px;
+            letter-spacing: 0.923px;
+          }
+          .about__two:hover {
+            color: #fff;
+          }
+          .subrice__two {
+            margin-right: 369px;
+            transition: all 0.7s;
+            // margin-left: 33px;
+            color: #83888f;
+            font-family: Barlow;
+            font-size: 12px;
+            font-weight: 700;
+            line-height: 15px;
+            letter-spacing: 0.923px;
+          }
+          .subrice__two:hover {
+            color: #fff;
+          }
+        }
+        .svg__inthernet {
+          width: 120px;
+          display: flex;
+          justify-content: space-between;
+          .svg__facebook {
+            transition: all 0.7s;
+            cursor: pointer;
+          }
+          .svg__facebook:hover {
+            fill: #fdd6ba;
+          }
+          .svg__twitter {
+            transition: all 0.7s;
+            cursor: pointer;
+          }
+          .svg__twitter:hover {
+            fill: #fdd6ba;
+          }
+          .svg__instagram {
+            transition: all 0.7s;
+            cursor: pointer;
+          }
+          .svg__instagram:hover {
+            fill: #fdd6ba;
+          }
+        }
+      }
+    }
+  }
+  // tablet
+  @media screen and(min-width: 768px) {
+    .our__commitment__container {
+      display: flex;
+      //   margin-top: 168px;
+      margin: 0 auto;
+      width: 1110px;
+      //   height: 520px;
+      .img__six {
+        img {
+          display: none;
+        }
+      }
+    }
+    .about__page__center__container {
+      .about__page__center__inside {
+        .img__seven {
+          display: none;
+        }
+      }
+    }
+  }
+  // tablet
+  @media screen and(max-width: 768px) {
+    .about__page__codes__container {
+      width: 768px;
+      height: 2921px;
+      header {
+        nav {
+          display: flex;
+          justify-content: center;
+          .navigation__container {
+            height: 113px;
+            width: 689px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            .Home {
+              margin: 0;
+            }
+            .home {
+              margin-left: 170px;
+              color: #83888f;
+              font-family: Barlow;
+              font-size: 11px;
+              font-weight: 700;
+              line-height: 15px;
+              letter-spacing: 0.923px;
+              text-transform: uppercase;
+              // margin: 0;
+            }
+            .about {
+              width: 62px;
+              color: #83888f;
+              font-family: Barlow;
+              font-size: 11px;
+              font-weight: 700;
+              line-height: 15px;
+              letter-spacing: 0.923px;
+              text-transform: uppercase;
+              margin-left: 33px;
+              // margin: 0;
+            }
+            .subrice {
+              margin-left: 33px;
+              color: #83888f;
+              font-family: Barlow;
+              font-size: 11px;
+              font-weight: 700;
+              line-height: 15px;
+              letter-spacing: 0.923px;
+              text-transform: uppercase;
+              margin-left: 33px;
+              // margin: 0;
+            }
+          }
+        }
+      }
+      section {
+        //   margin-bottom: 168px;
+        display: flex;
+        justify-content: center;
+        .coffe__container {
+          display: flex;
+          flex-direction: column;
+          //   align-items: center;
+          justify-content: center;
+          background-image: url(../aboutpage_img/about__tablet.jpg);
+          background-repeat: no-repeat;
+          width: 689px;
+          height: 400px;
+          .about__us {
+            color: #fefcf7;
+            font-family: Fraunces;
+            font-size: 32px;
+            font-weight: 900;
+            line-height: 40px;
+          }
+          .coffeeroasters {
+            margin-top: 24px;
+            width: 398px;
+            color: #a9a3a0;
+            font-family: Barlow;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 25px;
+          }
+        }
+      }
+      .our__commitment__container {
+        display: flex;
+        justify-content: center;
+        //   margin-top: 168px;
+        margin-top: 114px;
+        // margin: 0 auto;
+        width: 689px;
+        //   height: 520px;
+        .img__two {
+          img {
+            display: none;
+          }
+        }
+        .our__commitment__writing {
+          margin-left: 69px;
+          margin-top: 0;
+          .our__commitment {
+            max-width: 350px;
+            color: #333d4b;
+            font-family: Fraunces;
+            font-size: 32px;
+            font-weight: 900;
+            line-height: 48px;
+          }
+          .were__built {
+            margin-top: 30px;
+            width: 339px;
+            color: #333d4b;
+            font-family: Barlow;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 25px;
+          }
+        }
+      }
+      .about__page__center__container {
+        // margin-top: 250px;
+        justify-content: center;
+        display: flex;
+        .about__page__center__inside {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 688px;
+          height: 488px;
+          border-radius: 10px;
+          background: #2c343e;
+          .img__five {
+            // transform: translateY(-80px);
+            display: none;
+          }
+          .img__seven {
+            // margin-left: 90px;
+            transform: translateY(-80px);
+            width: 573px;
+            height: 320px;
+          }
+          .writing__center {
+            margin-left: 90px;
+            // display: flex;
+            // justify-content: center;
+            // align-items: center;
+            // flex-direction: column;
+            .uncompromising {
+              margin: 0;
+              color: #fefcf7;
+              text-align: center;
+              font-family: Fraunces;
+              font-size: 32px;
+              font-weight: 900;
+              line-height: 48px;
+              margin-bottom: 24px;
+            }
+            .although {
+              width: 540px;
+              margin-right: 0;
+              color: #b3b5b5;
+              text-align: center;
+              font-family: Barlow;
+              font-size: 15px;
+              font-weight: 400;
+              line-height: 25px;
+              margin-bottom: 100px;
+            }
+          }
+        }
+      }
+      center {
+        .our__headquarters__container {
+          width: 688px;
+          .our__headquarters {
+            color: #83888f;
+            font-family: Fraunces;
+            font-size: 24px;
+            font-weight: 900;
+            line-height: 32px;
+          }
+          .about__map {
+            .map__img__one {
+              margin-right: 190px;
+            }
+            .map__img__two {
+              margin-right: 181px;
+            }
+          }
+          .center__inside {
+            .united {
+              display: flex;
+              justify-content: start;
+              width: 223px;
+              margin: 0;
+              color: #333d4b;
+              font-family: Fraunces;
+              font-size: 24px;
+              font-weight: 900;
+              line-height: 36px;
+              margin-right: 9px;
+            }
+            .canada {
+              width: 93px;
+              margin: 0;
+              color: #333d4b;
+              font-family: Fraunces;
+              font-size: 24px;
+              font-weight: 900;
+              line-height: 36px;
+              margin-right: 140px;
+            }
+            .australia {
+              width: 118px;
+              color: #333d4b;
+              font-family: Fraunces;
+              font-size: 24px;
+              font-weight: 900;
+              line-height: 36px;
+            }
+          }
+          .united__canada__australia__information {
+            .united__information {
+              width: 222px;
+              margin-right: 10px;
+              margin-top: 0;
+            }
+            .canada__information {
+              width: 222px;
+              margin-right: 10px;
+              margin-top: 0;
+            }
+            .australia__information {
+              width: 222px;
+              margin-right: 10px;
+              margin-top: 0;
+            }
+          }
+        }
+      }
+      footer {
+        // width: 688px;
+        // height: 270px;
+        // flex-direction: column;
+        .footer__container {
+          width: 688px;
+          height: 270px;
+          flex-direction: column;
+          justify-content: space-between;
+          align-items: center;
+          .home__three {
+            margin-top: 54px;
+          }
+          .pages {
+            display: flex;
+            justify-content: center;
+            margin-top: 32px;
+            margin-bottom: 65px;
+            .home__two {
+              margin: 0;
+              margin-right: 32px;
+            }
+            .about__two {
+              margin: 0;
+              margin-right: 32px;
+            }
+            .subrice__two {
+              margin: 0;
+            }
+          }
+          .svg__inthernet {
+            margin-bottom: 54px;
+          }
+        }
+      }
+    }
+  }
+  // mobile
+  @media screen and(max-width: 375px) {
+    .about__page__codes__container {
+      width: 375px;
+      height: 3920px;
+      header {
+        nav {
+          .navigation__container {
+            width: 327px;
+            display: flex;
+            justify-content: space-between;
+            .Home img {
+              width: 163px;
+              height: 18px;
+            }
+            .home {
+              display: none;
+            }
+            .about {
+              display: none;
+            }
+            .subrice {
+              display: none;
+            }
+          }
+        }
+      }
+      section {
+        .coffe__container {
+          background-position: top;
+          width: 327px;
+          height: 400px;
+          background-image: url(../aboutpage_img/about_page_img_mobile.jpg);
+          .about__us {
+            margin: 0;
+            color: #fefcf7;
+            text-align: center;
+            font-family: Fraunces;
+            font-size: 28px;
+            font-weight: 900;
+            line-height: 28px;
+          }
+          .coffeeroasters {
+            margin-left: 24px;
+            width: 279px;
+            color: #fefcf7b6;
+            text-align: center;
+            font-family: Barlow;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 25px;
+          }
+        }
+      }
+      .our__commitment__container {
+        flex-direction: column;
+        width: 375px;
+        .img__six {
+          display: flex;
+          justify-content: center;
+          img {
+            background-image: url(../aboutpage_img/mobile__about__coffe.jpg);
+          }
+        }
+        .our__commitment__writing {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          // justify-content: center;
+          margin-left: 0;
+          .our__commitment {
+            margin-top: 20px;
+            color: #333d4b;
+            text-align: center;
+            font-family: Fraunces 9pt;
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 900;
+            line-height: 48px; /* 150% */
+          }
+          .were__built {
+            width: 327px;
+            color: #333d4b;
+            text-align: center;
+            font-family: Barlow;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 25px; /* 166.667% */
+          }
+        }
+      }
+      .about__page__center__container {
+        .about__page__center__inside {
+          width: 327px;
+          height: 509px;
+          .img__seven {
+            width: 279px;
+            height: 156px;
+          }
+          .writing__center {
+            .uncompromising {
+              width: 279px;
+              color: #fefcf7;
+              text-align: center;
+              font-family: Fraunces;
+              font-size: 28px;
+              font-style: normal;
+              font-weight: 900;
+              line-height: 28px;
+            }
+            .although {
+              margin-bottom: 50px;
+              width: 279px;
+              color: #fefcf7a1;
+              text-align: center;
+              font-family: Barlow;
+              font-size: 15px;
+              font-weight: 400;
+              line-height: 25px;
+            }
+          }
+        }
+      }
+      center {
+        .our__headquarters__container {
+          width: 327px;
+          // height: 1044px;
+          .our__headquarters {
+            margin-left: 40px;
+            width: 327px;
+            color: #83888f;
+            text-align: center;
+            font-family: Fraunces;
+            font-size: 24px;
+            font-weight: 900;
+            line-height: 32px;
+          }
+          .about__map {
+            margin-left: 140px;
+            display: flex;
+            flex-direction: column;
+            .map__img__one {
+              margin-bottom: 293px;
+              margin-right: 0;
+            }
+            .map__img__two {
+              margin-bottom: 292px;
+              margin-right: 0;
+            }
+          }
+          .center__inside {
+            width: 327px;
+            // display: flex;
+            // justify-content: center;
+            margin-top: -650px;
+            flex-direction: column;
+            .united {
+              margin-left: 30px;
+              display: flex;
+              justify-content: center;
+              width: 327px;
+              color: #333d4b;
+              text-align: center;
+              font-family: Fraunces;
+              font-size: 28px;
+              font-weight: 900;
+              line-height: 36px;
+              margin-right: 0;
+              margin-bottom: 306px;
+            }
+            .canada {
+              margin-left: -2px;
+              display: flex;
+              justify-content: center;
+              width: 327px;
+              color: #333d4b;
+              text-align: center;
+              font-family: Fraunces;
+              font-size: 28px;
+              font-style: normal;
+              font-weight: 900;
+              line-height: 36px;
+              margin-bottom: 300px;
+              margin-right: 0;
+            }
+            .australia {
+              margin-left: -2px;
+              width: 327px;
+              display: flex;
+              justify-content: center;
+            }
+          }
+          .united__canada__australia__information {
+            margin-left: -20px;
+            width: 375px;
+            align-items: center;
+            margin-top: -660px;
+            flex-direction: column;
+            .united__information {
+              display: flex;
+              // justify-content: center;
+              align-items: center;
+              margin-bottom: 235px;
+              margin-right: 0;
+            }
+            .canada__information {
+              display: flex;
+              // justify-content: center;
+              align-items: center;
+              margin-bottom: 229px;
+              margin-right: 0;
+            }
+            .australia__information {
+              margin-right: 0;
+              display: flex;
+              // justify-content: center;
+              align-items: center;
+            }
+          }
+        }
+      }
+    }
+  }
+  // mobile
+  @media screen and(min-width: 375px) {
+    .about__page__codes__container {
+      header {
+        nav {
+          .navigation__container {
+            .hamburger__svg {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}

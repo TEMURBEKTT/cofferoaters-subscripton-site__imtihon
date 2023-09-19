@@ -1,0 +1,1371 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600;9..144,700;9..144,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&family=Roboto:wght@400;500;700&display=swap");
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: #fefcf7;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body a {
+  text-decoration: none;
+}
+
+body .subrice__page__codes__container {
+  margin: 0 auto;
+  width: 1440px;
+  width: 1440px;
+  height: 3218px;
+  background: #fefcf7;
+  height: 3595px;
+}
+
+body .subrice__page__codes__container header nav .navigation__container {
+  height: 113px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .subrice__page__codes__container header nav .navigation__container .home {
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  margin-left: 760px;
+  font-family: Barlow;
+  color: #83888f;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+}
+
+body .subrice__page__codes__container header nav .navigation__container .home:hover {
+  color: #333d4b;
+}
+
+body .subrice__page__codes__container header nav .navigation__container .about {
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  margin-left: 33px;
+  font-family: Barlow;
+  color: #83888f;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+}
+
+body .subrice__page__codes__container header nav .navigation__container .about:hover {
+  color: #333d4b;
+}
+
+body .subrice__page__codes__container header nav .navigation__container .subrice {
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  margin-left: 33px;
+  font-family: Barlow;
+  color: #83888f;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+}
+
+body .subrice__page__codes__container header nav .navigation__container .subrice:hover {
+  color: #333d4b;
+}
+
+body .subrice__page__codes__container .img__coffe__subrice {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-image: url(../subricepage_img/subrice_page_coffe_img.png);
+  width: 1280px;
+  height: 450px;
+}
+
+body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container .create__plan {
+  margin-left: 86px;
+  max-width: 485px;
+  color: #fefcf7;
+  font-family: Fraunces;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 72px;
+}
+
+body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container .coffe__the {
+  margin-top: 32px;
+  margin-left: 86px;
+  max-width: 445px;
+  color: #fefcf7;
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice {
+  margin-top: 160px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container {
+  width: 1280px;
+  height: 653px;
+  background: #2c343e;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .line {
+  margin-top: 128px;
+  margin-left: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 760px;
+  height: 2px;
+  background: #fdd6ba;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .line .circular__box__one {
+  -webkit-transform: translate(-16px, -16px);
+          transform: translate(-16px, -16px);
+  width: 31px;
+  height: 31px;
+  fill: #fefcf7;
+  border: 3px solid #0e8784;
+  border-radius: 50%;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .line .circular__box__two {
+  -webkit-transform: translate(16px, -16px);
+          transform: translate(16px, -16px);
+  width: 31px;
+  height: 31px;
+  fill: #fefcf7;
+  border: 3px solid #0e8784;
+  border-radius: 50%;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .line .circular__box {
+  -webkit-transform: translateY(-17px);
+          transform: translateY(-17px);
+  width: 31px;
+  height: 31px;
+  fill: #fefcf7;
+  border: 3px solid #0e8784;
+  border-radius: 50%;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number {
+  margin-left: 85px;
+  margin-top: 82px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number .one {
+  color: #fdd6ba;
+  font-family: Fraunces;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 72px;
+  margin-right: 290px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number .two {
+  color: #fdd6ba;
+  font-family: Fraunces;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 72px;
+  margin-right: 260px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number .three {
+  color: #fdd6ba;
+  font-family: Fraunces;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 72px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing {
+  margin-left: 85px;
+  margin-top: 38px;
+  margin-bottom: 42px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .pick__your__coffe {
+  margin-right: 120px;
+  width: 255px;
+  color: #fefcf7;
+  font-family: Fraunces;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .choose__the__frequency {
+  margin-right: 105px;
+  width: 255px;
+  color: #fefcf7;
+  font-family: Fraunces;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .receive__and__enjoy {
+  width: 255px;
+  color: #fefcf7;
+  font-family: Fraunces;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text {
+  margin-left: 85px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .select {
+  margin-right: 90px;
+  width: 285px;
+  color: #fefcf7;
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .customize {
+  margin-right: 78px;
+  width: 285px;
+  color: #fefcf7;
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .we__ship__your {
+  width: 285px;
+  color: #fefcf7;
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 auto;
+  width: 1110px;
+  margin-top: 168px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container {
+  margin-right: 125px;
+  width: 255px;
+  height: 356px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .one__container {
+  height: 80px;
+  border-bottom: 1px solid #83888f;
+  width: 255px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .one__container .one {
+  color: #0e8784;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+  margin-right: 28.5px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .one__container .preferences {
+  color: #333d4b;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .two__container {
+  width: 255px;
+  height: 80px;
+  border-bottom: 1px solid #83888f;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .two__container .two {
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+  margin-right: 25.5px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .two__container .ben__type {
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .three__container {
+  width: 255px;
+  height: 80px;
+  border-bottom: 1px solid #83888f;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .three__container .three {
+  margin-right: 25.5px;
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+  margin-right: 25.5px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .three__container .quantity {
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .four__container {
+  width: 255px;
+  height: 80px;
+  border-bottom: 1px solid #83888f;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .four__container .four {
+  margin-right: 23.5px;
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+  margin-right: 25.5px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .four__container .grind__option {
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .five__container {
+  width: 255px;
+  height: 80px;
+  border-bottom: 1px solid #83888f;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .five__container .five {
+  margin-right: 25.5px;
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+  margin-right: 25.5px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe center .one__two__three__four__five__container .five__container .deliveries {
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .how__do__you__drink {
+  margin-bottom: 56px;
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .what__type__of {
+  margin-top: 88px;
+  margin-bottom: 56px;
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .how__much__would {
+  margin-top: 88px;
+  margin-bottom: 56px;
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .Want__us__to {
+  margin-top: 88px;
+  margin-bottom: 56px;
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .How__often__should {
+  margin-top: 88px;
+  margin-bottom: 56px;
+  color: #83888f;
+  font-family: Fraunces;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two {
+  cursor: pointer;
+  margin-right: 23px;
+  color: #fff;
+  font-family: Barlow;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+  background: #0e8784;
+  width: 228px;
+  height: 250px;
+  border-radius: 8px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .filter,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .decaf,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .cafetiere,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .money,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .every__week {
+  margin-top: 32px;
+  margin-left: 28px;
+  color: #fff;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .for__pour,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .just__like,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .perfect__for__the,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .course__ground,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .includes__free {
+  width: 172px;
+  margin-left: 28px;
+  margin-top: 24px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box {
+  cursor: pointer;
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
+  margin-right: 23px;
+  color: #333d4b;
+  font-family: Barlow;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+  border-radius: 8px;
+  background: #f4f1eb;
+  width: 228px;
+  height: 250px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .compatible,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .dense__and,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .distinct,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .combination,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .perfect__option,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .perfect__for,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .best__choice,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .for__drip,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .every__week,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .per__shimmet,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .priority__shipping {
+  width: 172px;
+  margin-left: 28px;
+  margin-top: 24px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .capsule,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .espresso,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .single,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .blended,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .money__two,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .money__three,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .wholebean,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .filter,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .every__two__weeks,
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .every__month {
+  margin-left: 28px;
+  margin-top: 32px;
+  color: #333d4b;
+  font-family: Fraunces;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 32px;
+}
+
+body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box:hover {
+  background: #fdd6ba;
+}
+
+body .subrice__page__codes__container .false {
+  width: 689px;
+  margin-top: 84px;
+  margin-left: 550px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body .subrice__page__codes__container .false .I__drink .img__false__one {
+  background-image: url(../img/FALSE__IMG.png);
+}
+
+body .subrice__page__codes__container .false .btn {
+  margin-top: 40px;
+  width: 725px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+body .subrice__page__codes__container .false .btn button {
+  cursor: pointer;
+  -webkit-transition: all 0.6s;
+  transition: all 0.6s;
+  border-radius: 6px;
+  background: #0e8784;
+  width: 217px;
+  height: 56px;
+  color: #fefcf7;
+  text-align: center;
+  font-family: Fraunces;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 25px;
+  border: none;
+}
+
+body .subrice__page__codes__container .false .btn button:hover {
+  background: #66d2cf;
+}
+
+body .subrice__page__codes__container footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 200px;
+}
+
+body .subrice__page__codes__container footer .footer__container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 1280px;
+  background: #2c343e;
+  height: 120px;
+}
+
+body .subrice__page__codes__container footer .footer__container .home__three {
+  margin-left: 110px;
+  margin-right: 103px;
+}
+
+body .subrice__page__codes__container footer .footer__container .pages .home__two {
+  margin-right: 33px;
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  color: #83888f;
+  font-family: Barlow;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+}
+
+body .subrice__page__codes__container footer .footer__container .pages .home__two:hover {
+  color: #fff;
+}
+
+body .subrice__page__codes__container footer .footer__container .pages .about__two {
+  margin-right: 33px;
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  color: #83888f;
+  font-family: Barlow;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+}
+
+body .subrice__page__codes__container footer .footer__container .pages .about__two:hover {
+  color: #fff;
+}
+
+body .subrice__page__codes__container footer .footer__container .pages .subrice__two {
+  margin-right: 369px;
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  color: #83888f;
+  font-family: Barlow;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+}
+
+body .subrice__page__codes__container footer .footer__container .pages .subrice__two:hover {
+  color: #fff;
+}
+
+body .subrice__page__codes__container footer .footer__container .svg__inthernet {
+  width: 120px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+body .subrice__page__codes__container footer .footer__container .svg__inthernet .svg__facebook {
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  cursor: pointer;
+}
+
+body .subrice__page__codes__container footer .footer__container .svg__inthernet .svg__facebook:hover {
+  fill: #fdd6ba;
+}
+
+body .subrice__page__codes__container footer .footer__container .svg__inthernet .svg__twitter {
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  cursor: pointer;
+}
+
+body .subrice__page__codes__container footer .footer__container .svg__inthernet .svg__twitter:hover {
+  fill: #fdd6ba;
+}
+
+body .subrice__page__codes__container footer .footer__container .svg__inthernet .svg__instagram {
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  cursor: pointer;
+}
+
+body .subrice__page__codes__container footer .footer__container .svg__inthernet .svg__instagram:hover {
+  fill: #fdd6ba;
+}
+
+@media screen and (max-width: 768px) {
+  body .subrice__page__codes__container {
+    margin-left: 300px;
+    width: 768px;
+    height: 4471px;
+  }
+  body .subrice__page__codes__container header {
+    margin-left: 50px;
+  }
+  body .subrice__page__codes__container header nav .navigation__container {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
+  }
+  body .subrice__page__codes__container header nav .navigation__container .Home {
+    margin: 0;
+  }
+  body .subrice__page__codes__container header nav .navigation__container .home {
+    margin-left: 170px;
+  }
+  body .subrice__page__codes__container header nav .navigation__container .about {
+    margin-left: 33px;
+  }
+  body .subrice__page__codes__container header nav .navigation__container .subrice {
+    margin-left: 33px;
+  }
+  body .subrice__page__codes__container .img__coffe__subrice {
+    margin-left: 50px;
+  }
+  body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container {
+    background-image: url(../img/tablet_coffe.png);
+    background-repeat: no-repeat;
+  }
+  body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container .create__plan {
+    margin-left: 58px;
+    color: #fefcf7;
+    font-family: Fraunces;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 48px;
+  }
+  body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container .coffe__the {
+    margin-left: 58px;
+    margin-top: 24px;
+    width: 398px;
+    color: #bbbdc0;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice {
+    margin-left: 40px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container {
+    width: 768px;
+    height: 640px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .line {
+    margin-left: 54px;
+    margin-top: 112px;
+    width: 467px;
+    height: 2px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number {
+    margin-left: 40px;
+    margin-top: 62px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number .one {
+    margin-right: 143px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number .two {
+    margin-right: 132px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing {
+    margin-top: 42px;
+    margin-bottom: 38px;
+    margin-left: 40px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .pick__your__coffe {
+    width: 220px;
+    margin-right: 10px;
+    color: #fff;
+    font-family: Fraunces;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+    /* 114.286% */
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .choose__the__frequency {
+    margin-right: 10px;
+    width: 225px;
+    color: #fff;
+    font-family: Fraunces;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 32px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .receive__and__enjoy {
+    width: 260px;
+    color: #fff;
+    font-family: Fraunces;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 32px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text {
+    margin-left: 40px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .select {
+    margin-right: 10px;
+    width: 220px;
+    color: #fff;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .customize {
+    margin-right: 10px;
+    width: 220px;
+    color: #fff;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .we__ship__your {
+    width: 200px;
+    color: #fff;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
+  }
+  body .subrice__page__codes__container .drink__your__coffe center {
+    display: none;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container {
+    margin-left: 40px;
+  }
+  body .subrice__page__codes__container .false {
+    margin-top: 144px;
+    margin-left: 60px;
+  }
+  body .subrice__page__codes__container .false .btn {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  body .subrice__page__codes__container footer {
+    margin-left: 30px;
+  }
+  body .subrice__page__codes__container footer .footer__container {
+    width: 688px;
+    height: 270px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  body .subrice__page__codes__container footer .footer__container .home__three {
+    margin-top: 54px;
+  }
+  body .subrice__page__codes__container footer .footer__container .pages {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 32px;
+    margin-bottom: 65px;
+  }
+  body .subrice__page__codes__container footer .footer__container .pages .home__two {
+    margin: 0;
+    margin-right: 32px;
+  }
+  body .subrice__page__codes__container footer .footer__container .pages .about__two {
+    margin: 0;
+    margin-right: 32px;
+  }
+  body .subrice__page__codes__container footer .footer__container .pages .subrice__two {
+    margin: 0;
+  }
+  body .subrice__page__codes__container footer .footer__container .svg__inthernet {
+    margin-bottom: 54px;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  body .subrice__page__codes__container header nav .navigation__container .hamburger__svg {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  body .subrice__page__codes__container {
+    width: 375px;
+    height: 5950px;
+  }
+  body .subrice__page__codes__container header nav .navigation__container .Home img {
+    width: 163px;
+    height: 18px;
+  }
+  body .subrice__page__codes__container header nav .navigation__container .home,
+  body .subrice__page__codes__container header nav .navigation__container .about,
+  body .subrice__page__codes__container header nav .navigation__container .subrice {
+    display: none;
+  }
+  body .subrice__page__codes__container header nav .navigation__container .hamburger__svg {
+    margin-left: 148px;
+  }
+  body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container {
+    background-image: url(../img/mobile__coffe.jpg);
+    background-position: top;
+    width: 327px;
+    height: 400px;
+  }
+  body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container .create__plan {
+    margin-left: 24px;
+    color: #fefcf7;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 40px;
+  }
+  body .subrice__page__codes__container .img__coffe__subrice .coffe__img__container .coffe__the {
+    margin: 22px 0 0 24px;
+    width: 279px;
+    color: #fefcf7;
+    text-align: center;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container {
+    width: 375px;
+    height: 1028px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .line {
+    display: none;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-left: -5px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number .one {
+    margin-right: 0;
+    margin-bottom: 236px;
+    color: #fdd6ba;
+    text-align: center;
+    font-family: Fraunces;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number .two {
+    margin-bottom: 236px;
+    color: #fdd6ba;
+    text-align: center;
+    font-family: Fraunces;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    margin-right: 0;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .number .three {
+    color: #fdd6ba;
+    text-align: center;
+    font-family: Fraunces;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    margin-right: 0;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text {
+    margin-left: 25px;
+    margin-top: -630px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .select {
+    width: 327px;
+    color: #fff;
+    text-align: center;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-bottom: 208px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .customize {
+    width: 327px;
+    color: #fff;
+    text-align: center;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-bottom: 208px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__long__text .we__ship__your {
+    width: 327px;
+    color: #fff;
+    text-align: center;
+    font-family: Barlow;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing {
+    margin-top: -600px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .pick__your__coffe {
+    width: 327px;
+    color: #fff;
+    text-align: center;
+    font-family: Fraunces;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 32px;
+    margin-bottom: 276px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .choose__the__frequency {
+    width: 327px;
+    margin-bottom: 276px;
+    color: #fff;
+    text-align: center;
+    font-family: Fraunces;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 32px;
+  }
+  body .subrice__page__codes__container .coffe__two__container__subrice .coffe__two__container .center__writing .receive__and__enjoy {
+    width: 327px;
+    color: #fff;
+    text-align: center;
+    font-family: Fraunces;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 32px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container {
+    height: 1812px;
+    width: 328px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .how__do__you__drink {
+    margin-bottom: 32px;
+    color: #83888f;
+    font-family: Fraunces;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 28px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .what__type__of {
+    margin-top: 110px;
+    margin-bottom: 32px;
+    width: 240px;
+    color: #83888f;
+    font-family: Fraunces;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 28px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .how__much__would {
+    margin-top: 110px;
+    margin-bottom: 32px;
+    color: #83888f;
+    font-family: Fraunces;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 28px;
+    width: 240px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .Want__us__to {
+    margin-top: 110px;
+    margin-bottom: 32px;
+    color: #83888f;
+    font-family: Fraunces;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 28px;
+    width: 240px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .How__often__should {
+    margin-top: 110px;
+    margin-bottom: 32px;
+    color: #83888f;
+    font-family: Fraunces;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 28px;
+    width: 240px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box {
+    margin-bottom: 16px;
+    width: 328px;
+    height: 140px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .capsule,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .espresso,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .single,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .blended,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .money__two,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .money__three,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .wholebean,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .filter,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .every__two__weeks,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .every__month {
+    margin: 24px 0 0 25px;
+    color: #333d4b;
+    font-family: Fraunces;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .compatible,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .dense__and,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .distinct,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .combination,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .perfect__option,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .perfect__for,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .best__choice,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .for__drip,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .every__week,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .per__shimmet,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box .priority__shipping {
+    margin-top: 8px;
+    width: 278px;
+    color: #333d4b;
+    font-family: Barlow;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two {
+    margin-bottom: 16px;
+    width: 328px;
+    height: 140px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .filter,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .decaf,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .cafetiere,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .money,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .every__week {
+    margin: 24px 0 0 25px;
+    color: #fff;
+    font-family: Fraunces;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+  }
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .for__pour,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .just__like,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .perfect__for__the,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .course__ground,
+  body .subrice__page__codes__container .drink__your__coffe .boxes__container .boxing .box__two .includes__free {
+    margin-top: 8px;
+    width: 278px;
+    color: #fff;
+    font-family: Barlow;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+  }
+  body .subrice__page__codes__container .false {
+    margin-left: 0;
+    margin-top: 1500px;
+  }
+  body .subrice__page__codes__container .false .I__drink {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
+    margin-left: 70px;
+  }
+  body .subrice__page__codes__container .false .I__drink .img__false__one {
+    width: 328px;
+    height: 338px;
+    background-image: url(../img/false__image.png);
+  }
+  body .subrice__page__codes__container .false .btn {
+    margin-left: 100px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
+  }
+}
+/*# sourceMappingURL=subrice.css.map */
